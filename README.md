@@ -27,13 +27,14 @@ cd tabchi
 chmod 777 install.sh
 ./install.sh
 `Loading...`
-[if lua creator.lua] (http://s9.picofile.com/file/8289980200/Capture.PNG)
-[elseif python creator or python3 creator](http://s9.picofile.com/file/8289978668/Editing_tabchi_README_md_at_master_SorBlackPlus_tabchi.png)
+if lua creator.lua => (http://s9.picofile.com/file/8289982384/7.PNG)
+elseif python creator=>(http://s9.picofile.com/file/8289978668/Editing_tabchi_README_md_at_master_SorBlackPlus_tabchi.png)
+elseif python3 creator=>(typing python3 creator.py)
 (lua creator.lua or python creator.py or python3 creator.py)
-typing 1,2,3 please type 1
-./tabchi-0.sh
+typing 1,2,3 (please type 1)
+./tabchi-1.sh or screen ./tabchi-1.sh or ./tabchi-ID.sh or ./tabchi-0.sh
 `send phone number and send code to run bot`
-finish
+#finish
 <------------>
 for on bot?
 cd tabchi
