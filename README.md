@@ -1,7 +1,7 @@
 # Tabchi V4 [PrimeTeam && SorBlackTeam](https://t.me/primeteam)
 
 TG-CLI based broadcasting bot!
-
+-----------------------
 ## Install
 ```bash
 chmod 777 install.sh
@@ -18,7 +18,7 @@ ID : 0
 Full Sudo : 122774063
 Run : ./tabchi-0.sh
 ```
-Enter your telegram Id in "Full Sudo ID" part
+`Enter your telegram Id in "Full Sudo ID" part`
 ------------------------
 How to install tabchi bot?
 ```
@@ -34,7 +34,7 @@ typing 1,2,3 please type 1
 ./tabchi-0.sh
 `send phone number and send code to run bot`
 finish
-------------
+<------------>
 for on bot?
 cd tabchi
 ./tabchi-0.sh
